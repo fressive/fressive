@@ -24,7 +24,7 @@ Currently, I'm learning about application security and machine learning stuff an
 - Music! 🎵
   - Fan of J-Rock/J-Pop/Anisong/EDMs/blahblah
   - Learning music theory and arranging
-  - Learning to play the electronic guitar and keyboard ~~(I want to learn more instruments in the future btw)~~
+  - Learning to play the electric guitar and keyboard ~~(I want to learn more instruments in the future btw)~~
 - Game Noob 🎮
   - (Arcade) Music Games >> osu! / Sound Voltex / Chunithm / maimai / ...
   - Visual Novels
