@@ -25,4 +25,4 @@ I'm interested in cybersecurity and machine learning stuff.
 ## Contact Me ☎️
 
 - 🌐 Blog: [https://rina.icu](https://rina.icu)
-- 📧 Email: me@rina.icu
+- 📧 Email: echo bWVAcmluYS5pY3UK | base64 -d
